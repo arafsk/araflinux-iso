@@ -1,0 +1,46 @@
+#
+# Product branding information
+#
+---
+componentName:  araflinux
+
+welcomeStyleCalamares:   false
+
+welcomeExpandingLogo:   true
+
+windowExpanding:    normal
+
+windowSize: 800px,520px
+
+windowPlacement: center
+
+sidebar: widget
+
+navigation: widget
+
+strings:
+    productName:         "Araf Linux"
+    shortProductName:    araflinux
+    version:             2025
+    shortVersion:        2025
+    versionedName:       araflinux
+    shortVersionedName:  araflinux
+    bootloaderEntryName: araflinux
+    productUrl:          https://github.com/arafsk/araflinux-calamares-config
+
+images:
+    productIcon:         "squid.png"
+    productLogo:         "logo.png"
+    productWallpaper:    "wallpaper.png"
+    productWelcome:      "languages.png"
+
+style:
+   SidebarBackground:        "#292F34"
+   SidebarText:              "#FFFFFF"
+   SidebarTextCurrent:       "#292F34"
+   SidebarBackgroundCurrent: "#D35400"
+
+slideshow:               "show.qml"
+
+slideshowAPI: 2
+

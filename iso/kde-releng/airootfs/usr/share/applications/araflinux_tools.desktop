@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Araflinux Tools
+Comment=Araflinux Tools
+Categories=System;
+Keywords=System;
+Exec=pkexec /usr/local/bin/araflinux_tools
+Icon=/usr/share/backgrounds/kecil/root.png
+Path=/usr/local/bin
+Terminal=true
+StartupNotify=false
+Name=araflinux_tools
+GenericName=araflinux_tools

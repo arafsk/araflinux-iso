@@ -1,0 +1,185 @@
+#dynamic_padding = true
+live_config_reload = true
+
+[env]
+TERM = "xterm-256color"
+
+[mouse]
+#double_click: { threshold: 300 }
+#triple_click: { threshold: 300 }
+
+[window]
+dynamic_padding = true
+dynamic_title = false
+decorations = 'Full'
+opacity = 0.9
+blur = true
+title = "Alacritty"
+
+# blur-background = true
+# blur-background = true
+# blur-method = "gaussian"
+# blur-size = 15
+# blur-strength = 7
+
+[window.dimensions]
+columns = 80
+lines = 34
+
+[window.padding]
+x = 20
+y = 20
+
+[font]
+size = 12.0
+
+[cursor]
+style = 'Beam'
+thickness = 0.06
+
+[font.bold]
+family = "CaskaydiaCove Nerd Font Mono"
+style = "Auto"
+
+[font.bold_italic]
+family = "CaskaydiaCove Nerd Font Mono"
+style = "Auto"
+
+[font.italic]
+family = "CaskaydiaCove Nerd Font Mono"
+style = "Auto"
+
+[font.normal]
+family = "CaskaydiaCove Nerd Font Mono"
+style = "Regular"
+
+[font.offset]
+x = 0
+y = 0
+
+[[keyboard.bindings]]
+action = "Paste"
+key = "V"
+mods = "Control"
+
+[[keyboard.bindings]]
+action = "Copy"
+key = "C"
+mods = "Control"
+
+[[keyboard.bindings]]
+action = "PasteSelection"
+key = "Insert"
+mods = "Shift"
+
+[[keyboard.bindings]]
+action = "ReceiveChar"
+key = "C"
+mods = "Control|Shift"
+
+[[keyboard.bindings]]
+action = "ResetFontSize"
+key = "Key0"
+mods = "Control"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "Equals"
+mods = "Control"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "Plus"
+mods = "Control"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "Minus"
+mods = "Control"
+
+[[keyboard.bindings]]
+action = "ToggleFullscreen"
+key = "F11"
+mods = "None"
+
+[[keyboard.bindings]]
+action = "Paste"
+key = "Paste"
+mods = "None"
+
+[[keyboard.bindings]]
+action = "Copy"
+key = "Copy"
+mods = "None"
+
+[[keyboard.bindings]]
+action = "ClearLogNotice"
+key = "L"
+mods = "Control"
+
+[[keyboard.bindings]]
+chars = "\f"
+key = "L"
+mods = "Control"
+
+[[keyboard.bindings]]
+action = "ScrollPageUp"
+key = "PageUp"
+mode = "~Alt"
+mods = "None"
+
+[[keyboard.bindings]]
+action = "ScrollPageDown"
+key = "PageDown"
+mode = "~Alt"
+mods = "None"
+
+[[keyboard.bindings]]
+action = "ScrollToTop"
+key = "Home"
+mode = "~Alt"
+mods = "Shift"
+
+[[keyboard.bindings]]
+action = "ScrollToBottom"
+key = "End"
+mode = "~Alt"
+mods = "Shift"
+
+[scrolling]
+history = 5001
+multiplier = 3
+
+[colors]
+#transparent_background_colors = true
+draw_bold_text_with_bright_colors = true
+
+# Colors (Nordic)
+
+[colors.primary]
+background = '#2E3440'
+foreground = '#D8DEE9'
+
+[colors.normal]
+black = '#191C1D'
+red = '#BD6062'
+green = '#A3D6A9'
+yellow = '#F0DFAF'
+blue = '#8FB4D8'
+magenta = '#C7A9D9'
+cyan = '#B6D7A8'
+white = '#BDC5BD'
+
+[colors.bright]
+black = '#727C7C'
+red = '#D18FAF'
+green = '#B7CEB0'
+yellow = '#BCBCBC'
+blue = '#E0CF9F'
+magenta = '#C7A9D9'
+cyan = '#BBDA97'
+white = '#BDC5BD'
+
+[colors.selection]
+text = '#000000'
+background = '#F0DFAF'

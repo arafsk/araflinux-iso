@@ -1,0 +1,11 @@
+[ExtractDialog]
+2560x1440 screen: Height=720
+2560x1440 screen: Width=1562
+DirHistory[$e]=$HOME/ArafLinux/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled

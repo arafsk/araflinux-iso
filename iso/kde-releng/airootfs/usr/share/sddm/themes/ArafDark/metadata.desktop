@@ -1,0 +1,17 @@
+[SddmGreeterTheme]
+Name=ArafDark
+Description=ArafDark
+Author=ArafDark Design Group
+Copyright=(c) 2025, ArafDark
+License=CC-BY-SA
+Type=sddm-theme
+Version=v1.0
+Website=https://github.com/sddm/sddm
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=arafsos@protonmail.com
+Theme-Id=ArafDark
+Theme-API=2.0
+QtVersion=6

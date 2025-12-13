@@ -1,0 +1,7 @@
+yay -S \
+aic94xx-firmware ast-firmware betterlockscreen \
+gtk3-nocsd-git i3lock-color light mkinitcpio-firmware mpv-handler \
+networkmanager-dmenu-git nordic-theme-git obmenu-generator \
+perl-linux-desktopfiles picom-ibhagwan-git qogir-gtk-theme \
+tela-icon-theme ttf-meslo-nerd-font-powerlevel10k upd72020x-fw \
+wd719x-firmware zsh zsh-theme-powerlevel10k-git
