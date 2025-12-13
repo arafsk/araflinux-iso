@@ -1,0 +1,9 @@
+NAME="ArafLinux"
+PRETTY_NAME="ArafLinux"
+ID=ArafLinux
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+LOGO=ArafLinux
+IMAGE_ID=ArafLinux
+IMAGE_VERSION="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m)"

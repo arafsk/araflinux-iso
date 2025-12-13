@@ -1,0 +1,6 @@
+[Added Associations]
+application/x-shellscript=org.kde.kate.desktop;
+text/x-csrc=org.kde.kate.desktop;
+
+[Default Applications]
+text/x-csrc=org.kde.kate.desktop

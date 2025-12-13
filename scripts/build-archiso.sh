@@ -2,8 +2,6 @@
 
 ##################################################################################################################
 # ArafLinux ISO Builder
-# Author: Erik Dubois (Modified for ArafLinux)
-# Website: https://www.erikdubois.be
 # Modified: Enhanced version with improved structure and readability
 #
 # WARNING: DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
@@ -21,18 +19,18 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
 # Desktop Configuration
-readonly DESKTOP="none"
-readonly DM_DESKTOP="none"
+readonly DESKTOP=""
+readonly DM_DESKTOP=""
 readonly ARAFLINUX_VERSION="$(date +%Y.%m.%d)"
-readonly ISO_LABEL="araflinux_${ARAFLINUX_VERSION}_x86_64.iso"
+readonly ISO_LABEL="ArafLinux_${ARAFLINUX_VERSION}_x86_64.iso"
 
 # Version Requirements
 readonly ARCHISO_REQUIRED_VERSION="archiso 83-1"
 
 # Directory Configuration
-readonly BUILD_FOLDER="${HOME}//BUILD/iso-building"
+readonly BUILD_FOLDER="${HOME}//BUILD/iso-build"
 readonly OUT_FOLDER="${HOME}/BUILD/iso-out"
-readonly ISO_SOURCE="${HOME}/BUILD/iso"
+readonly ISO_SOURCE="${HOME}/BUILD/araflinux-iso/iso/cinneman-releng/"
 
 # Repository Configuration
 readonly PERSONAL_REPO=false

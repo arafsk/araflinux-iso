@@ -93,7 +93,6 @@ gpart
 gparted
 gpm
 gptfdisk
-grml-zsh-config
 grsync
 grub
 gst-libav

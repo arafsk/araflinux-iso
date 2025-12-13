@@ -14,7 +14,7 @@
  *   You should have received a copy of the GNU General Public License
  *   along with Calamares. If not, see <http://www.gnu.org/licenses/>.
  * 
- *   Ezarcher custom settings
+ *   ArafLinux custom settings
  */
 
 import QtQuick 2.0;
