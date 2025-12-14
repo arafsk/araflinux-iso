@@ -1,0 +1,176 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <value type="int" value="2"/>
+    <property name="dark-mode" type="bool" value="true"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=6;x=0;y=0"/>
+      <property name="length" type="double" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="icon-size" type="uint" value="16"/>
+      <property name="size" type="uint" value="28"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="19"/>
+        <value type="int" value="2"/>
+        <value type="int" value="3"/>
+        <value type="int" value="4"/>
+        <value type="int" value="5"/>
+        <value type="int" value="6"/>
+        <value type="int" value="7"/>
+        <value type="int" value="8"/>
+        <value type="int" value="9"/>
+        <value type="int" value="10"/>
+      </property>
+      <property name="mode" type="uint" value="0"/>
+      <property name="border-width" type="uint" value="1"/>
+      <property name="autohide-behavior" type="uint" value="1"/>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="enter-opacity" type="uint" value="91"/>
+      <property name="leave-opacity" type="uint" value="89"/>
+    </property>
+    <property name="panel-2" type="empty">
+      <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="position" type="string" value="p=10;x=0;y=0"/>
+      <property name="length" type="double" value="1"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="size" type="uint" value="48"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="16"/>
+        <value type="int" value="1"/>
+        <value type="int" value="12"/>
+        <value type="int" value="11"/>
+        <value type="int" value="13"/>
+        <value type="int" value="14"/>
+        <value type="int" value="15"/>
+        <value type="int" value="17"/>
+        <value type="int" value="18"/>
+      </property>
+      <property name="border-width" type="uint" value="1"/>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="mode" type="uint" value="0"/>
+      <property name="enter-opacity" type="uint" value="91"/>
+      <property name="leave-opacity" type="uint" value="92"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-2" type="string" value="tasklist">
+      <property name="grouping" type="uint" value="1"/>
+    </property>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-4" type="string" value="pager"/>
+    <property name="plugin-5" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="clipman"/>
+        <value type="string" value="xfce4-power-manager"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="pamac-tray"/>
+        <value type="string" value="ethernet network connection “wired connection 1” active"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="stacer"/>
+      </property>
+    </property>
+    <property name="plugin-7" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-8" type="string" value="clock">
+      <property name="mode" type="uint" value="2"/>
+    </property>
+    <property name="plugin-9" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-10" type="string" value="actions"/>
+    <property name="plugin-12" type="string" value="separator"/>
+    <property name="plugin-13" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17648385151.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-14" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17648385152.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-15" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17648385153.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-16" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17648385154.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-17" type="string" value="separator"/>
+    <property name="plugin-18" type="string" value="directorymenu">
+      <property name="base-directory" type="string" value="/home/araf"/>
+    </property>
+    <property name="plugin-19" type="string" value="whiskermenu">
+      <property name="launcher-show-name" type="bool" value="true"/>
+      <property name="view-mode" type="int" value="0"/>
+      <property name="category-icon-size" type="int" value="0"/>
+      <property name="menu-width" type="int" value="993"/>
+      <property name="menu-opacity" type="int" value="90"/>
+      <property name="launcher-icon-size" type="int" value="3"/>
+      <property name="launcher-show-tooltip" type="bool" value="true"/>
+      <property name="position-categories-horizontal" type="bool" value="false"/>
+      <property name="position-categories-alternate" type="bool" value="true"/>
+      <property name="position-profile-alternate" type="bool" value="true"/>
+      <property name="position-search-alternate" type="bool" value="true"/>
+      <property name="position-commands-alternate" type="bool" value="true"/>
+      <property name="profile-shape" type="int" value="0"/>
+      <property name="show-button-title" type="bool" value="true"/>
+      <property name="button-title" type="string" value="ArafLinux"/>
+      <property name="button-icon" type="string" value="pack-less"/>
+      <property name="default-category" type="int" value="2"/>
+      <property name="hover-switch-category" type="bool" value="true"/>
+      <property name="recent-items-max" type="int" value="10"/>
+      <property name="recent" type="array">
+        <value type="string" value="calamares.desktop"/>
+        <value type="string" value="geany.desktop"/>
+        <value type="string" value="stacer.desktop"/>
+        <value type="string" value="xfce4-terminal.desktop"/>
+        <value type="string" value="terminator.desktop"/>
+        <value type="string" value="xfce4-terminal-emulator.desktop"/>
+        <value type="string" value="xfce4-about.desktop"/>
+        <value type="string" value="thunar-settings.desktop"/>
+        <value type="string" value="gparted.desktop"/>
+        <value type="string" value="nm-connection-editor.desktop"/>
+      </property>
+      <property name="menu-height" type="int" value="776"/>
+    </property>
+    <property name="plugin-1" type="string" value="whiskermenu">
+      <property name="position-categories-alternate" type="bool" value="true"/>
+      <property name="position-profile-alternate" type="bool" value="false"/>
+      <property name="position-search-alternate" type="bool" value="false"/>
+      <property name="position-commands-alternate" type="bool" value="false"/>
+      <property name="menu-width" type="int" value="662"/>
+      <property name="menu-height" type="int" value="638"/>
+      <property name="position-categories-horizontal" type="bool" value="false"/>
+      <property name="view-mode" type="int" value="0"/>
+      <property name="menu-opacity" type="int" value="96"/>
+      <property name="default-category" type="int" value="2"/>
+      <property name="hover-switch-category" type="bool" value="true"/>
+      <property name="stay-on-focus-out" type="bool" value="false"/>
+      <property name="recent" type="array">
+        <value type="string" value="Alacritty.desktop"/>
+        <value type="string" value="xfce-mouse-settings.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-11" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17657090041.desktop"/>
+      </property>
+    </property>
+  </property>
+</channel>

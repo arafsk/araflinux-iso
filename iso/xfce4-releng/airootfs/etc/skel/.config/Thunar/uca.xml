@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>Alacritty</icon>
+	<name>Open Terminal Here</name>
+	<submenu></submenu>
+	<unique-id>1581593230771688-1</unique-id>
+	<command>alacritty</command>
+	<description>Open terminal in current directory</description>
+	<range></range>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>go-parent-folder</icon>
+	<name>Open as root</name>
+	<submenu></submenu>
+	<unique-id>1622790717174452-1</unique-id>
+	<command>/usr/bin/archcraft-tcma --asroot &apos;dbus-run-session thunar&apos;</command>
+	<description>Open current directory as root</description>
+	<range></range>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>document-edit-sign</icon>
+	<name>Edit as root</name>
+	<submenu></submenu>
+	<unique-id>1622790919788057-2</unique-id>
+	<command>/usr/bin/archcraft-tcma --asroot &apos;geany %f&apos;</command>
+	<description>Edit file as root</description>
+	<range></range>
+	<patterns>*</patterns>
+	<text-files/>
+</action>
+<action>
+	<icon>kr_comparedirs</icon>
+	<name>Compare</name>
+	<submenu></submenu>
+	<unique-id>1622791692322694-4</unique-id>
+	<command>meld %F</command>
+	<description>Compare files and directories with  meld</description>
+	<range></range>
+	<patterns>*</patterns>
+	<directories/>
+	<text-files/>
+</action>
+<action>
+	<icon>view-preview</icon>
+	<name>Set as wallpaper</name>
+	<submenu></submenu>
+	<unique-id>1622798756568291-1</unique-id>
+	<command>/usr/bin/archcraft-tcma --wallpaper %f</command>
+	<description>Set wallpaper according to session</description>
+	<range></range>
+	<patterns>*</patterns>
+	<image-files/>
+</action>
+<action>
+	<icon>rotation-locked-landscape</icon>
+	<name>Set as lockscreen</name>
+	<submenu></submenu>
+	<unique-id>1622799434407260-2</unique-id>
+	<command>/usr/bin/archcraft-tcma --lockscreen %f</command>
+	<description>Set image as lockscreen background</description>
+	<range></range>
+	<patterns>*</patterns>
+	<image-files/>
+</action>
+</actions>

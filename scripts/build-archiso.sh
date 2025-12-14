@@ -28,9 +28,9 @@ readonly ISO_LABEL="ArafLinux_${ARAFLINUX_VERSION}_x86_64.iso"
 readonly ARCHISO_REQUIRED_VERSION="archiso 83-1"
 
 # Directory Configuration
-readonly BUILD_FOLDER="${HOME}//BUILD/iso-build"
-readonly OUT_FOLDER="${HOME}/BUILD/iso-out"
-readonly ISO_SOURCE="${HOME}/BUILD/araflinux-iso/iso/cinneman-releng/"
+readonly BUILD_FOLDER="${HOME}/BUILD/xfce4-build"
+readonly OUT_FOLDER="${HOME}/BUILD/xfce4-out"
+readonly ISO_SOURCE="${HOME}/BUILD/araflinux-iso/iso/xfce4-releng"
 
 # Repository Configuration
 readonly PERSONAL_REPO=false

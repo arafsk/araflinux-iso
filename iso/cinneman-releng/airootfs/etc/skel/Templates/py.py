@@ -1,12 +1,9 @@
 #!/bin/python3
 
-#####################################
-#                                   #
-#  @author      : araf_sk           #
-#    GitHub    : @arafsos          #
-#    Developer : Araf SK  			#
-#  﫥  Copyright : Araf SK  			#
-#                                   #
-#####################################
+####################################
+###	  Author	 : @araf_sk		###
+##	﫥 Copyright  : Araf_SK		##
+#################################
+
 
 print("Araf SK")

@@ -1,0 +1,23 @@
+[Added Associations]
+text/x-csrc=org.xfce.mousepad.desktop;
+text/plain=org.xfce.mousepad.desktop;geany.desktop;
+application/x-shellscript=org.xfce.mousepad.desktop;geany.desktop;
+image/jpeg=org.xfce.ristretto.desktop;
+application/x-theme=geany.desktop;
+image/svg+xml=org.xfce.ristretto.desktop;
+image/png=org.xfce.ristretto.desktop;
+application/x-desktop=geany.desktop;
+application/vnd.sqlite3=geany.desktop;
+application/xml=geany.desktop;
+application/vnd.ms-publisher=geany.desktop;
+application/x-font-vfont=geany.desktop;
+application/vnd.efi.iso=gnome-disk-image-mounter.desktop;gnome-disk-image-writer.desktop;
+
+[Default Applications]
+text/plain=geany.desktop
+application/x-shellscript=geany.desktop
+image/svg+xml=org.xfce.ristretto.desktop
+image/png=org.xfce.ristretto.desktop
+application/vnd.sqlite3=geany.desktop
+application/vnd.ms-publisher=geany.desktop
+application/x-font-vfont=geany.desktop
