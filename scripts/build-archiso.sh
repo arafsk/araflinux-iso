@@ -19,18 +19,18 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
 # Desktop Configuration
-readonly DESKTOP=""
+readonly DESKTOP="xfce"
 readonly DM_DESKTOP=""
 readonly ARAFLINUX_VERSION="$(date +%Y.%m.%d)"
 readonly ISO_LABEL="ArafLinux_${ARAFLINUX_VERSION}_x86_64.iso"
 
 # Version Requirements
-readonly ARCHISO_REQUIRED_VERSION="archiso 83-1"
+readonly ARCHISO_REQUIRED_VERSION="archiso 84-1"
 
 # Directory Configuration
-readonly BUILD_FOLDER="${HOME}/BUILD/xfce4-build"
-readonly OUT_FOLDER="${HOME}/BUILD/xfce4-out"
-readonly ISO_SOURCE="${HOME}/BUILD/araflinux-iso/iso/xfce4-releng"
+readonly BUILD_FOLDER="/home/araf/arafsk-build/xfce4-build"
+readonly OUT_FOLDER="/home/araf/arafsk-build/xfce4-out"
+readonly ISO_SOURCE="/home/araf/arafsk-build/releng"
 
 # Repository Configuration
 readonly PERSONAL_REPO=false
