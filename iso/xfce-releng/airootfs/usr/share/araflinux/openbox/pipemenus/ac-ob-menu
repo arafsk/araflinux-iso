@@ -1,0 +1,58 @@
+#!/usr/bin/env bash
+
+## Copyright (C) 2020-2024 Aditya Shakya <adi1090x@gmail.com>
+##
+## Openbox Pipemenu to change openbox menu style
+
+# Variables and functions
+MENUS_LIBDIR='/usr/share/archcraft/openbox/menulib'
+if ! . "$MENUS_LIBDIR/archcraft.cfg" 2> /dev/null; then
+	echo "Error: Failed to locate archcraft.cfg in $MENUS_LIBDIR" >&2
+	exit 1
+fi
+
+# Vars
+idir='/usr/share/archcraft/openbox/icons'
+obdir="$HOME/.config/openbox"
+config="$obdir/rc.xml"
+menuconfig="$obdir/menu-icons.xml"
+namespace="http://openbox.org/3.4/rc"
+
+# Icons
+ICONS=(`cd $idir && ls -d */ | cut -d '/' -f1`)
+COUNT=1
+
+# Change menu file & reload OB
+ob_menu() {
+	xmlstarlet ed -L -N a="$namespace" -u '/a:openbox_config/a:menu/a:file' -v "$1" "$config"
+	openbox --reconfigure
+}
+
+# Change icon dir & reload OB
+ob_icons() {
+	sed -i -e "s|icons \"/usr/share/archcraft/openbox/icons/.*|icons \"/usr/share/archcraft/openbox/icons/$1\">|g" "$menuconfig"
+	openbox --reconfigure
+}
+
+if [[ "$1" == '--menu' ]]; then
+	ob_menu "$2"
+elif [[ "$1" == '--icon' ]]; then
+	ob_icons "$2"
+fi
+
+menuStart
+if [[ `cat $config | grep 'menu-icons.xml'` ]]; then
+	menuSubmenu "change_icons" "Change Icons"
+		menuSeparator "Available Icons"
+		for ICON in "${ICONS[@]}"; do
+			menuItem "${COUNT}. ${ICON^}" "$0 --icon $ICON"
+			COUNT=$(($COUNT+1))
+		done
+	menuSubmenuEnd
+	menuSeparator
+fi
+menuItem 'Simple' "$0 --menu menu-simple.xml"
+menuItem 'Iconic' "$0 --menu menu-icons.xml"
+menuItem 'Glyphs' "$0 --menu menu-glyphs.xml"
+menuItem 'Minimal' "$0 --menu menu-minimal.xml"
+menuEnd

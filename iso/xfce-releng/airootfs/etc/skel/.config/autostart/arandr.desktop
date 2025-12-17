@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=arandr
+Categories=GNOME;GTK;Utility;
+Exec=/home/araf/.screenlayout/arandr.sh
+MimeType=text/uri-list;x-scheme-handler/variety;x-scheme-handler/vrty;
+Icon=drive-harddisk-symbolic-backup2
+Terminal=true
+Type=Application
+StartupNotify=true
+Actions=Next;Previous;PauseResume;History;Preferences;
+Keywords=Wallpaper;Changer;Change;Download;Downloader;Variety;
+X-GNOME-Autostart-Delay=20
+StartupWMClass=Variety
+Hidden=false
+GenericName=arandr screenlayout
