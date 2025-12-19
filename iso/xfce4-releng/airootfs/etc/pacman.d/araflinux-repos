@@ -1,1 +1,1 @@
-Server = https://gitlab.com/arafsk/$repo/-/raw/main/$arch
+Server = https://github.com/arafsk/$repo/-/raw/main/$arch
