@@ -28,9 +28,9 @@ readonly ISO_LABEL="ArafLinux_${ARAFLINUX_VERSION}_x86_64.iso"
 readonly ARCHISO_REQUIRED_VERSION="archiso 84-1"
 
 # Directory Configuration
-readonly BUILD_FOLDER="/home/araf/arafsk-build/xfce4-build"
-readonly OUT_FOLDER="/home/araf/arafsk-build/xfce4-out"
-readonly ISO_SOURCE="/home/araf/arafsk-build/releng"
+readonly BUILD_FOLDER="/home/arafsk/ISO/builder/"
+readonly OUT_FOLDER="/home/arafsk/ISO/builder/"
+readonly ISO_SOURCE="/home/arafsk/ISO/xfce-releng/"
 
 # Repository Configuration
 readonly PERSONAL_REPO=false

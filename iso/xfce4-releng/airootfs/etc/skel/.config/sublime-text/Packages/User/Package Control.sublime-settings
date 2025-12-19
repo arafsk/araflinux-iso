@@ -1,0 +1,13 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Package Control",
+	],
+	"installed_packages":
+	[
+		"Electron Color Scheme",
+		"Package Control",
+		"Theme - Arc",
+	],
+}

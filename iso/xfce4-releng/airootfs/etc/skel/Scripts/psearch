@@ -1,0 +1,43 @@
+#!/bin/bash
+
+# psearch - Zypper-style package search for Arch Linux
+# Author: You, inspired by Zypper ❤️
+
+KEYWORD="$1"
+
+if [ -z "$KEYWORD" ]; then
+    echo "Usage: psearch <package-name-or-keyword>"
+    exit 1
+fi
+
+# Get list of installed package NAMES (not versions)
+mapfile -t INSTALLED < <(pacman -Qq | grep -E "^$KEYWORD" 2>/dev/null)
+
+# Header
+printf '%-3s | %-30s | %-50s | %-10s\n' "S" "Name" "Summary" "Type"
+printf '%s\n' "$(printf '%.0s-' {1..3})+$(printf '%.0s-' {1..32})+$(printf '%.0s-' {1..52})+$(printf '%.0s-' {1..12})"
+
+# Show installed packages
+for pkg in "${INSTALLED[@]}"; do
+    desc=$(pacman -Qi "$pkg" 2>/dev/null | awk '/^Desc/ { $1=""; $2=""; print substr($0,3) }' | head -n1)
+    printf 'i   | %-30s | %-50s | %-10s\n' "$pkg" "${desc:0:50}" "package"
+done
+
+# Show available (not installed) packages
+pacman -Ss "^$KEYWORD" 2>/dev/null | awk -v keyword="'$KEYWORD'" '
+BEGIN {
+    # Load installed packages from shell array
+    split(ENVIRON["PSEARCH_INSTALLED"], installed_arr, "\n")
+    for (i in installed_arr) installed[installed_arr[i]] = 1
+}
+/^(core|extra|community|multilib|aur)\// {
+    full = $0
+    pkg_with_ver = $2
+    sub(/-.*/, "", pkg_with_ver)  # Strip version
+    if (installed[pkg_with_ver]) next
+    pkg = pkg_with_ver
+    getline desc_line
+    gsub(/^    /, "", desc_line)
+    printf "    | %-30s | %-50s | %-10s\n", pkg, substr(desc_line, 1, 50), "package"
+}
+' PSEARCH_INSTALLED="$(printf '%s\n' "${INSTALLED[@]}")"
