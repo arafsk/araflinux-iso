@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0.1
+Type=Application
+Name=System Maintenance Tool
+Comment=maintenance tool
+Categories=System;
+Keywords=System;
+Exec=pkexec /usr/local/bin/maintenance
+Icon=/usr/share/pixmaps/logo.png
+Path=/usr/local/bin
+Terminal=true
+StartupNotify=false
+Name=maintenance

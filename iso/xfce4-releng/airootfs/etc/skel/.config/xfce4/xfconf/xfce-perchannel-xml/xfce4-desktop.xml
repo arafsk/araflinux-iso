@@ -1,4 +1,4 @@
-<?xml version="1.1" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <channel name="xfce4-desktop" version="1.0">
   <property name="backdrop" type="empty">
@@ -7,720 +7,720 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitor1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitorVGA-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitorHDMI1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitorHDMI2" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitorLVDS1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitorDVI-I-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitorDVI-D-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitorDVI-D-0" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitorHDMI-0" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitorHDMI-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitorHDMI-2" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitorVirtual1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitorVirtual2" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitorVirtual-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitorVirtual-2" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitorDP-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="DP-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/arco/arco-wallpaper.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/arco/arco-wallpaper.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/arco/arco-wallpaper.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/arco/arco-wallpaper.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/arco/arco-wallpaper.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/arco/arco-wallpaper.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="DP-0" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/arco/arco-wallpaper.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/arco/arco-wallpaper.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/arco/arco-wallpaper.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/arco/arco-wallpaper.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/arco/arco-wallpaper.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/arco/arco-wallpaper.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
       <property name="monitorLVDS-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/araf/.config/variety/wallpaper/wallpaper-auto-rotated-97f4a36eed422a6f8dc4a9356e2d3c31.jpg"/>
+          <property name="last-image" type="string" value= "/usr/share/backgrounds/araf/dracula-dark.png.jpg"/>
         </property>
       </property>
     </property>
@@ -733,10 +733,9 @@
     <property name="file-icons" type="empty">
       <property name="show-home" type="bool" value="false"/>
       <property name="show-filesystem" type="bool" value="false"/>
-      <property name="show-trash" type="bool" value="true"/>
+      <property name="show-trash" type="bool" value="false"/>
       <property name="show-removable" type="bool" value="false"/>
     </property>
-    <property name="confirm-sorting" type="bool" value="true"/>
   </property>
   <property name="desktop-menu" type="empty">
     <property name="show" type="bool" value="true"/>
@@ -747,5 +746,4 @@
     <property name="show-workspace-names" type="bool" value="true"/>
     <property name="show-submenus" type="bool" value="false"/>
   </property>
-  <property name="last-settings-migration-version" type="uint" value="1"/>
 </channel>

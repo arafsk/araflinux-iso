@@ -1,0 +1,11 @@
+{
+    "/etc/*": {
+        "filetype": "conf"
+    },
+    "/home/*/.config/*": {
+        "filetype": "conf"
+    },
+    "autosu": true,
+    "colorscheme": "geany",
+    "mkparents": true
+}

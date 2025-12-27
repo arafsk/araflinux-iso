@@ -1,6 +1,6 @@
 #!/bin/bash
 
-USERNAME="arafsk"
+USERNAME="araf"
 
 # Arch-relevant groups for common privileges
 groups=(wheel audio video disk optical storage lp scanner network)

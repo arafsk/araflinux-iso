@@ -1,11 +1,6 @@
 #!/bin/bash
 
 set -euo pipefail
-
-##################################################################################################################
-# Author    : Erik Dubois
-# Websites  : https://www.erikdubois.be | https://www.arcolinux.info | https://www.arcolinux.com
-#            https://www.arcolinuxd.com | https://www.arcolinuxforum.com
 ##################################################################################################################
 #
 #   DO NOT JUST RUN THIS SCRIPT. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
@@ -21,10 +16,13 @@ echo "################################################################"
 sudo pacman -S --needed --noconfirm devtools namcap archlinux-tools
 
 # Define constants
-CHROOT_DIR="$HOME/Documents/chroot"
+CHROOT_DIR="$HOME/Documents/chroot-archlinux"
 PACMAN_CONF=$installed_dir/"pacman.conf"
 MIRRORLIST="/etc/pacman.d/chaotic-mirrorlist"
 GPG_CONF=$installed_dir"/gpg.conf"
+
+sudo cp "/etc/pacman.d/gnupg/gpg.conf" "$HOME/Documents/"
+sudo cp "/etc/pacman.conf" "$HOME/Documents/"
 
 echo "################################################################"
 echo "#####               Setting up clean chroot                #####"
@@ -76,4 +74,3 @@ sudo arch-nspawn "$CHROOT_DIR/root" pacman -Syu
 echo "################################################################"
 echo "#####                     All Done 🎉                      #####"
 echo "################################################################"
-

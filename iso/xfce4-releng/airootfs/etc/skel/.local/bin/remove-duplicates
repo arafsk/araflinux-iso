@@ -1,0 +1,28 @@
+#!/bin/bash
+
+#####################################
+#                                   #
+#  @author      : araf_sk           #
+#    GitHub    : @arafsos          #
+#    Developer : Araf SK  			#
+#  﫥  Copyright : Araf SK  			#
+#                                   #
+#####################################
+
+
+# Prompt for input file
+read -p "Enter input file path: " input_file
+
+# Check if file exists
+if [ ! -f "$input_file" ]; then
+    echo "Error: File '$input_file' not found!"
+    exit 1
+fi
+
+# Prompt for output file
+read -p "Enter output file path: " output_file
+
+# Remove duplicates (keeps first occurrence)
+awk '!seen[$0]++' "$input_file" > "$output_file"
+
+echo "Done! Duplicates removed. Saved to: $output_file"

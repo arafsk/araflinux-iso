@@ -1,6 +1,3 @@
-NAME="ArafLinux"
-PRETTY_NAME="ArafLinux"
-ID=araflinux
-BUILD_ID=rolling
-HOME_URL="https://araflinux.org/"
-ISO_BUILD="Thu Dec 18 01:02:38 AM +06 2025"
+ISO_RELEASE=v25.12.26.01
+ISO_CODENAME=Araf_OS
+ISO_BUILD=Sat Dec 27 10:52:17 AM +06 2025

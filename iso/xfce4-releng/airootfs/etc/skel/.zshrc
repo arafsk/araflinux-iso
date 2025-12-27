@@ -1,23 +1,11 @@
-#################################
-#     @author   : Araf SK  ####
-################################
-clear && fastfetch
-
 # Path to your Oh My Zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="araf"
-
-zstyle ':omz:update' mode disabled  # disable automatic updates
+ZSH_THEME="mira"
 
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
-
 source $ZSH/oh-my-zsh.sh
-
-# On-demand rehash
-zshcache_time="$(date +%s%N)"
-
 autoload -Uz add-zsh-hook
 
 rehash_precmd() {
@@ -33,9 +21,6 @@ rehash_precmd() {
 add-zsh-hook -Uz precmd rehash_precmd
 
 # Make nano the default editor
-export EDITOR='nano'
-export VISUAL='nano'
-
 if [ -d "$HOME/.bin" ] ;
   then PATH="$HOME/.bin:$PATH"
 fi
@@ -110,14 +95,12 @@ alias updqte='sudo pacman -Syyu'
 alias src='pkgsearch'
 alias src2='searchpkg'
 alias treed='tree -CAFd'
-alias find='sh $HOME/.bin/find'
-alias replace='sh $HOME/.bin/replace'
 alias mountedinfo='df -hT'
 
 #enabling vmware services
 alias start-vmware="sudo systemctl enable --now vmtoolsd.service"
 alias vmware-start="sudo systemctl enable --now vmtoolsd.service"
-alias sv="sudo systemctl enable --now vmtoolsd.service"
+alias sv="sudo systemctl enable vmware-vmblock-fuse.service vmtoolsd.service"
 
 #alias tree='tree -CAhF --dirsfirst'
 alias fix="sudo chown -R $USER:$USER"
@@ -292,9 +275,9 @@ alias list="sudo pacman -Qqet"
 # AUR packages list
 alias aurlist="sudo pacman -Qqem"
 # add > list at the end to write to a file
-alias pkglist="sudo pacman -Qqen | grep -v "^linux$" > packages.x86_64.txt"
+alias applist="sudo pacman -Qqet > packages.x86_64.txt"
 # install packages from list
-alias installpkglist="sudo pacman -S --needed - <"
+alias install="sudo pacman -S --needed - <"
 
 #maintenance
 alias big="expac -H M '%m\t%n' | sort -h | nl"
@@ -309,8 +292,10 @@ alias rmgitcache="rm -r ~/.cache/git"
 #pacman unlock
 alias unlock="sudo rm /var/lib/pacman/db.lck"
 alias pamac-unlock="sudo rm /var/tmp/pamac/dbs/db.lock"
+
 #moving your personal files and folders from /personal to ~
-alias personal='cp -Rf /personal/* ~'
+alias personal='cp -arf /etc/skel/. ~'
+alias cpskel='cp -Rf ~/.config ~/.config-backup-$(date +%Y.%m.%d-%H.%M.%S)'
 
 # show the list of packages that need this package - depends mpv as example
 function_depends()  {
@@ -320,4 +305,5 @@ function_depends()  {
 
 alias depends='function_depends'
 
-[[ -f ~/.zshrc-personal ]] && . ~/.zshrc-personal
+eval "$(starship init zsh)"
+eval "$(zoxide init zsh)"

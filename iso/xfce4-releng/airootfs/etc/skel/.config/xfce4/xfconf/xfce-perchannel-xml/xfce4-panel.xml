@@ -1,4 +1,4 @@
-<?xml version="1.1" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <channel name="xfce4-panel" version="1.0">
   <property name="configver" type="int" value="2"/>
@@ -101,8 +101,6 @@
         <value type="string" value="networkmanager applet"/>
       </property>
       <property name="known-items" type="array">
-        <value type="string" value="dyO_B9VP12"/>
-        <value type="string" value="xegIjW8GHk"/>
         <value type="string" value="Insync"/>
         <value type="string" value="chrome_status_icon_1"/>
         <value type="string" value="ckb-next_ckb-next"/>
@@ -111,8 +109,8 @@
       </property>
     </property>
     <property name="plugin-7" type="string" value="whiskermenu">
-      <property name="button-title" type="string" value="ArafLinux  "/>
-      <property name="button-icon" type="string" value="start-here-symbolic-10"/>
+      <property name="button-title" type="string" value="Araf_OS  "/>
+      <property name="button-icon" type="string" value="/usr/share/pixmaps/logo.png"/>
       <property name="show-button-title" type="bool" value="true"/>
       <property name="hover-switch-category" type="bool" value="true"/>
       <property name="category-icon-size" type="int" value="2"/>
@@ -130,20 +128,13 @@
         <value type="string" value="firefox.desktop"/>
         <value type="string" value="thunar.desktop"/>
         <value type="string" value="xfce4-terminal.desktop"/>
+        <value type="string" value="arcolinux-welcome-app.desktop"/>
         <value type="string" value="archlinux-tweak-tool.desktop"/>
+        <value type="string" value="sofirem.desktop"/>
+        <value type="string" value="arcolinux-app-glade.desktop"/>
         <value type="string" value="archlinux-betterlockscreen.desktop"/>
       </property>
       <property name="recent" type="array">
-        <value type="string" value="firefox.desktop"/>
-        <value type="string" value="localsend.desktop"/>
-        <value type="string" value="xfce4-terminal-emulator.desktop"/>
-        <value type="string" value="thunar.desktop"/>
-        <value type="string" value="xfce4-terminal.desktop"/>
-        <value type="string" value="gparted.desktop"/>
-        <value type="string" value="org.gnome.Meld.desktop"/>
-        <value type="string" value="sublime_text.desktop"/>
-        <value type="string" value="xfce4-clipman.desktop"/>
-        <value type="string" value="org.gnome.DiskUtility.desktop"/>
       </property>
       <property name="search-actions" type="int" value="7">
         <property name="action-0" type="empty">

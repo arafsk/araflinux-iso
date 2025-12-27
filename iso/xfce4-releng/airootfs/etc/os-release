@@ -1,8 +1,0 @@
-NAME="Araf_OS"
-PRETTY_NAME="Araf_OS"
-ID=araf_os
-BUILD_ID=rolling
-ANSI_COLOR="38;2;23;147;209"
-LOGO=araf-logo
-IMAGE_ID=araf_os
-IMAGE_VERSION="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"

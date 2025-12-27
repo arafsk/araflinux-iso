@@ -1,0 +1,15 @@
+sudo pacman -S --noconfirm --needed \
+xorg-server xorg-xinit xorg-xauth \
+xf86-input-libinput xorg-xrandr \
+xorg-xset xorg-xrdb xorg-xwininfo \
+xorg-xprop xorg-apps mkinitcpio squashfs-tools \
+archiso
+
+sleep 5 ;
+
+sudo pacman -S --overwrite \* --needed wget yad \
+pluma gimp arch-install-scripts nemo grilo-plugins \
+gvfs gvfs-afc gvfs-dnssd gvfs-goa gvfs-google \
+gvfs-gphoto2 gvfs-mtp gvfs-nfs gvfs-onedrive gvfs-smb \
+gvfs-wsdd loupe malcontent spice spice-gtk \
+spice-vdagent rsync --noconfirm

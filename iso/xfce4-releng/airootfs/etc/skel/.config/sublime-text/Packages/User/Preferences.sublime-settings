@@ -1,12 +1,8 @@
 {
-    "font_size": 13,
-    "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
-    "tab_size": 4,
-    "highlight_line": true,
-    "line_numbers": true,
-    "hot_exit": false,
-    "remember_open_files": false,
-    "theme": "Arc Dark.sublime-theme",
-    "color_scheme": "Packages/Electron Color Scheme/electron.tmTheme",
-    "light_color_scheme": "MarkdownEditor-ArcDark.sublime-color-scheme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "Arc Dark.sublime-theme",
+	"color_scheme": "Packages/Theme - Arc/Arc Darker.tmTheme",
 }
